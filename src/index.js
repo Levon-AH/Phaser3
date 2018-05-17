@@ -9,4 +9,6 @@ let config = {
 
 };
 
+//test
+
 let  game = new Phaser.Game(config);
